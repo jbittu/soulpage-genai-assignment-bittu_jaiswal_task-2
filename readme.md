@@ -128,16 +128,4 @@ Open → http://localhost:8501
 ```
 
 
-## Requirements
-
-```
-streamlit>=1.28.0
-langchain>=0.1.0
-google-generativeai>=0.4.0
-ddgs>=1.1.5
-python-dotenv>=1.0.1
-requests>=2.32.0
-pydantic>=1.10.14
-```
-
 
