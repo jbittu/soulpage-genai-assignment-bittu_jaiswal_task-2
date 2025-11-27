@@ -73,8 +73,8 @@ soulpage-genai-assignment-bittu_jaiswal_task-2/
 ##  Setup
 
 ```bash
-git clone https://github.com/jbittu/conversational_bot.git
-cd conversational_bot
+git clone https://github.com/jbittu/soulpage-genai-assignment-bittu_jaiswal_task-2.git
+cd soulpage-genai-assignment-bittu_jaiswal_task-2
 python -m venv venv      
 venv\Scripts\activate                        
 pip install -r requirements.txt
